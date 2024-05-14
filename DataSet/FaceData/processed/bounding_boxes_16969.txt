@@ -1,0 +1,7 @@
+Dataset/FaceData/processed\Dan\2024_05_11_14_52_IMG_5377.png
+Dataset/FaceData/processed\Dan\2024_05_11_14_51_IMG_5373.png
+Dataset/FaceData/processed\Dan\2024_05_11_14_51_IMG_5375.png
+Dataset/FaceData/processed\Dan\2024_05_11_14_51_IMG_5374.png 1787 1489 2374 2173
+Dataset/FaceData/processed\Dan\2024_05_11_14_52_IMG_5378.png
+Dataset/FaceData/processed\Dan\2024_05_11_14_52_IMG_5379.png 1233 1276 1490 1570
+Dataset/FaceData/processed\Dan\2024_05_11_14_51_IMG_5376.png

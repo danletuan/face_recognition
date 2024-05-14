@@ -1,0 +1,1 @@
+Dataset/FaceData/processed\Dan\2024_05_11_14_52_IMG_5379.png 410 1008 1518 2423

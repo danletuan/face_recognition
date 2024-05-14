@@ -1,0 +1,77 @@
+Dataset/FaceData/processed\tai\1.04.png 0 249 563 1042
+Dataset/FaceData/processed\tai\1.15.png 70 456 713 1200
+Dataset/FaceData/processed\tai\4.png 347 221 1059 929
+Dataset/FaceData/processed\tai\1.14.png 95 252 711 1111
+Dataset/FaceData/processed\tai\2.png 220 194 513 524
+Dataset/FaceData/processed\tai\1.05.png 69 274 660 1026
+Dataset/FaceData/processed\tai\1.11.png 0 291 524 1060
+Dataset/FaceData/processed\tai\1.01.png 0 222 588 1054
+Dataset/FaceData/processed\tai\6.png 257 112 1207 1418
+Dataset/FaceData/processed\tai\1.19.png 97 242 680 935
+Dataset/FaceData/processed\tai\1.18.png 0 234 634 1091
+Dataset/FaceData/processed\tai\7.png 425 415 981 1107
+Dataset/FaceData/processed\tai\1.03.png 0 211 581 1051
+Dataset/FaceData/processed\tai\1.20.png 30 216 714 1097
+Dataset/FaceData/processed\tai\1.06.png 208 282 720 1082
+Dataset/FaceData/processed\tai\5.png 204 125 396 350
+Dataset/FaceData/processed\tai\1.17.png 0 331 662 1174
+Dataset/FaceData/processed\tai\1.08.png 93 261 720 1119
+Dataset/FaceData/processed\tai\1.13.png 61 202 672 978
+Dataset/FaceData/processed\tai\1.12.png 34 229 603 933
+Dataset/FaceData/processed\tai\1.09.png 22 248 637 1079
+Dataset/FaceData/processed\tai\1.png 399 217 488 320
+Dataset/FaceData/processed\tai\1.10.png 0 282 528 1078
+Dataset/FaceData/processed\tai\3.png 412 296 618 538
+Dataset/FaceData/processed\tai\1.07.png 206 290 720 1101
+Dataset/FaceData/processed\tai\1.16.png 0 427 643 1248
+Dataset/FaceData/processed\tai\1.02.png 0 208 595 1057
+Dataset/FaceData/processed\tinh\1.17 - Copy.png 145 837 1511 2560
+Dataset/FaceData/processed\tinh\1.05 - Copy.png 169 771 1535 2560
+Dataset/FaceData/processed\tinh\7.png 350 368 1573 1985
+Dataset/FaceData/processed\tinh\1.04 - Copy.png 146 685 1463 2447
+Dataset/FaceData/processed\tinh\1.09.png 345 616 1604 2415
+Dataset/FaceData/processed\tinh\1.06 - Copy.png 349 603 1635 2405
+Dataset/FaceData/processed\tinh\1.20.png 109 369 736 1231
+Dataset/FaceData/processed\tinh\8 - Copy.png 404 908 917 1546
+Dataset/FaceData/processed\tinh\1.11.png 194 707 1529 2512
+Dataset/FaceData/processed\tinh\1.07.png 533 605 1822 2336
+Dataset/FaceData/processed\tinh\2.png 290 428 1271 1783
+Dataset/FaceData/processed\tinh\1.02 - Copy.png 115 728 1476 2375
+Dataset/FaceData/processed\tinh\1.18 - Copy.png 398 392 1637 2056
+Dataset/FaceData/processed\tinh\1.01 - Copy.png 247 671 1616 2491
+Dataset/FaceData/processed\tinh\1.16.png 233 564 1481 2291
+Dataset/FaceData/processed\tinh\7 - Copy.png 350 368 1573 1985
+Dataset/FaceData/processed\tinh\1.04.png 146 685 1463 2447
+Dataset/FaceData/processed\tinh\1.19.png 194 611 1522 2470
+Dataset/FaceData/processed\tinh\1.05.png 169 771 1535 2560
+Dataset/FaceData/processed\tinh\1.14 - Copy.png 138 479 1598 2440
+Dataset/FaceData/processed\tinh\2 - Copy.png 290 428 1271 1783
+Dataset/FaceData/processed\tinh\5.png 1035 647 1392 1078
+Dataset/FaceData/processed\tinh\10 - Copy.png 671 806 1289 1546
+Dataset/FaceData/processed\tinh\1.10.png 158 570 1502 2406
+Dataset/FaceData/processed\tinh\1.19 - Copy.png 194 611 1522 2470
+Dataset/FaceData/processed\tinh\1 - Copy.png 817 922 972 1113
+Dataset/FaceData/processed\tinh\1.08.png 328 645 1744 2497
+Dataset/FaceData/processed\tinh\1.06.png 349 603 1635 2405
+Dataset/FaceData/processed\tinh\1.14.png 138 479 1598 2440
+Dataset/FaceData/processed\tinh\1.20 - Copy.png 109 369 736 1231
+Dataset/FaceData/processed\tinh\1.02.png 115 728 1476 2375
+Dataset/FaceData/processed\tinh\1.12.png 0 707 1391 2555
+Dataset/FaceData/processed\tinh\8.png 404 908 917 1546
+Dataset/FaceData/processed\tinh\1.03 - Copy.png 385 558 1641 2282
+Dataset/FaceData/processed\tinh\1.10 - Copy.png 158 570 1502 2406
+Dataset/FaceData/processed\tinh\10.png 671 806 1289 1546
+Dataset/FaceData/processed\tinh\6.png 797 963 967 1170
+Dataset/FaceData/processed\tinh\1.12 - Copy.png 0 707 1391 2555
+Dataset/FaceData/processed\tinh\1.11 - Copy.png 194 707 1529 2512
+Dataset/FaceData/processed\tinh\9.png 1057 281 1531 849
+Dataset/FaceData/processed\tinh\1.09 - Copy.png 345 616 1604 2415
+Dataset/FaceData/processed\tinh\1.17.png 145 837 1511 2560
+Dataset/FaceData/processed\tinh\1.15.png 385 622 1684 2420
+Dataset/FaceData/processed\tinh\1.png 817 922 972 1113
+Dataset/FaceData/processed\tinh\9 - Copy.png 1057 281 1531 849
+Dataset/FaceData/processed\tinh\1.13 - Copy.png 185 625 1495 2461
+Dataset/FaceData/processed\tinh\1.18.png 398 392 1637 2056
+Dataset/FaceData/processed\tinh\1.13.png 185 625 1495 2461
+Dataset/FaceData/processed\tinh\1.01.png 247 671 1616 2491
+Dataset/FaceData/processed\tinh\1.03.png 385 558 1641 2282
